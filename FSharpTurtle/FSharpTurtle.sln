@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Common", "Common\Common.fsproj", "{0389E7E9-B8B4-4F0D-BBBA-6B3B648DAD09}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Common", "Common\Common.fsproj", "{0389E7E9-B8B4-4F0D-BBBA-6B3B648DAD09}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "1-OOPTurtle", "1-OOPTurtle\1-OOPTurtle.fsproj", "{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "1-OOPTurtle", "1-OOPTurtle\1-OOPTurtle.fsproj", "{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "2-FPTurtle", "2-FPTurtle\2-FPTurtle.fsproj", "{4632D412-7AB3-40F7-AC93-8A608A5F76AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
