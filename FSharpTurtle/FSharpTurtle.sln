@@ -7,7 +7,9 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Common", "Common\Common.fsp
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "1-OOPTurtle", "1-OOPTurtle\1-OOPTurtle.fsproj", "{2123F6E0-605A-46D1-9C58-4B5334FAEDA5}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "2-FPTurtle", "2-FPTurtle\2-FPTurtle.fsproj", "{4632D412-7AB3-40F7-AC93-8A608A5F76AA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "2-FPTurtle", "2-FPTurtle\2-FPTurtle.fsproj", "{4632D412-7AB3-40F7-AC93-8A608A5F76AA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "3-OOP-API", "3-OOP-API\3-OOP-API.fsproj", "{7FC4E9EC-4E64-4098-A27A-0B0401E22F76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4632D412-7AB3-40F7-AC93-8A608A5F76AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC4E9EC-4E64-4098-A27A-0B0401E22F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC4E9EC-4E64-4098-A27A-0B0401E22F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC4E9EC-4E64-4098-A27A-0B0401E22F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC4E9EC-4E64-4098-A27A-0B0401E22F76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

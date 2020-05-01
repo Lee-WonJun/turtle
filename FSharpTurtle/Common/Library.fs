@@ -45,4 +45,5 @@ module Common =
         // for now just log it
         log (sprintf "...Draw line from (%0.1f,%0.1f) to (%0.1f,%0.1f) using %A" oldPos.x oldPos.y newPos.x newPos.y color)
     
-    
+    /// trim a string 
+    let trimString (str:string) = str.Trim()
