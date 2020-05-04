@@ -1,3 +1,6 @@
 FSharpTurtle/.vs/
 FSharpTurtle/*/bin/
 FSharpTurtle/*/obj/
+
+/clojureturtle/clojureturtle.iml
+/clojureturtle/.idea
