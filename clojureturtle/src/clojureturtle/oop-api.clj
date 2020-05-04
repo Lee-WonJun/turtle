@@ -1,7 +1,7 @@
 (ns clojureturtle.oop-api
   (:require [clojureturtle.common :as common])
   (:require [clojureturtle.oop :as oop])
-  (:use [clojure.string :only (split triml)])
+  (:require [clojure.string :refer (split triml)])
   (:require [clojure.core.match :refer [match]]))
 
 (defn parse-float [x] (Float/parseFloat x))
